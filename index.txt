@@ -1,1 +1,2 @@
 Hello World I've changed this
+Now I've added a new line
